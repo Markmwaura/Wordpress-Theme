@@ -50,7 +50,7 @@
 			<ul class="nav navbar-nav navbar-right main-navigation">
 				<li><a href="#home" class="smoothScroll">HOME</a></li>
 				<li><a href="#about" class="smoothScroll">ABOUT</a></li>
-                <li><a href="#testimonial" class="smoothScroll">TESTIMONIALS</a></li>
+        <li><a href="#testimonial" class="smoothScroll">TESTIMONIALS</a></li>
 				<li><a href="#blog" class="smoothScroll">BLOG</a></li>
 				<li><a href="#contact" class="smoothScroll">CONTACT</a></li>
 			</ul>

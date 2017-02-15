@@ -16,7 +16,9 @@ function ju_enqueue(){
   wp_enqueue_style('ju_owlcarousel');
   wp_enqueue_style('ju_style');
   wp_enqueue_style('ju_googleapifonts');
-  //register script
+
+
+  //register scripts
   wp_register_script('ju_jqueryjs',get_template_directory_uri().'/assets/js/jquery.js',array(),false,true);
   wp_register_script('ju_bootstrapjs',get_template_directory_uri().'/assets/js/bootstrap.min.js',array(),false,true);
   wp_register_script('ju_smoothscroll',get_template_directory_uri().'/assets/js/smoothscroll.js',array(),false,true);
